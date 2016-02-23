@@ -13,5 +13,5 @@ For the font, use "Arial Narrow" for all titles and "Helvetica Neue" for non-tit
 
 It will be really hard to get this pixel perfect. Do your best but don't kill yourself. The objective is to get practice using semantic markup, and css positioning and layout.
 
-
+![sreenshot](https://github.com/awdriggs-html-css/tattoo/blob/master/ScreenShot.png)
 
